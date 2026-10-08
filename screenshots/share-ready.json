@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Fin Ars · Center za arhitekturo",
+      "hasCanvas": false,
+      "bodyTextLen": 2911,
+      "bodyTextHash": "85aa1927eaec4066ffbb4a7a4dfa1c1bab6ae2bb5a0958f862cd66b2ac4a8553",
+      "bodyTextPrefix": "FA Fin Ars Projekti Storitve O nas Kontakt ARHITEKTURNI BIRO · O",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/share-ready.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Fin Ars · Center za arhitekturo",
+      "hasCanvas": false,
+      "bodyTextLen": 2879,
+      "bodyTextHash": "0f0cbf8c3d6fef8a97ebf949c379c47153052d1993e6f06cf91b2886c66c9800",
+      "bodyTextPrefix": "FA Fin Ars ARHITEKTURNI BIRO · OD 2006 Oblikujemo prostore z nam",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/share-ready-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/share-ready.json"
+}
